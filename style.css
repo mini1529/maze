@@ -1,0 +1,16 @@
+#maze {
+  width: 400px;
+  height: 400px;
+  background-color: #000; /* 미로의 배경색 */
+}
+
+.wall {
+  background-color: #333; /* 벽의 배경색 */
+}
+
+#ball {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #f00; /* 공의 배경색 */
+}
